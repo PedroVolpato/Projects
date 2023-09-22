@@ -1,0 +1,2 @@
+Projeto suposto: Interface Inicial de um site de Hospedagem de Site.
+Foco foi trabalhar melhor o CSS da página.
